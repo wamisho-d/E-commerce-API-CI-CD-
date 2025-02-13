@@ -1,0 +1,6 @@
+Flask
+flasgger
+psycopg2
+pytest
+python-dotenv
+pytest-cov
